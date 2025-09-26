@@ -45,8 +45,8 @@ Before installing, ensure you have:
    The EMAIL is the sender's email address and the PASSWORD is the sender App Password.
    ```
     PORT=5000
-    EMAIL = victorukay0@gmail.com
-    PASSWORD = wtogetkucfuaztjg
+    EMAIL = 
+    PASSWORD = 
     
    ```
 4. **Start the server**
